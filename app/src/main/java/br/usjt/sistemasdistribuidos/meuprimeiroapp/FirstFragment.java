@@ -25,7 +25,7 @@ public class                                                                    
         return binding.getRoot();
 
     }
-
+// teste para o git
     public void onViewCreated(@NonNull View view, Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
 
